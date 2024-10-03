@@ -1,2 +1,2 @@
-# Csmalltask
-C task solving-problem 
+# C problem-solving
+Task completed
